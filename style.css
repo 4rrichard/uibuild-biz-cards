@@ -1,0 +1,46 @@
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  gap: 62px;
+  background-color: #ffeedf;
+}
+
+body div {
+  margin-top: 200px;
+  width: 290px;
+  height: 416px;
+  padding: 27px;
+  background-color: #fff;
+}
+
+body div h2 {
+  margin: 0;
+  font-family: "EB Garamond", serif;
+  font-size: 48px;
+  font-weight: 400;
+  color: #33793f;
+}
+
+body div h6 {
+  margin-top: 15px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #999;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+body div p {
+  font-family: "EB Garamond", serif;
+  font-size: 24px;
+  font-weight: 400;
+  color: #999;
+}
+/*# sourceMappingURL=style.css.map */
